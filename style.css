@@ -40,13 +40,13 @@ section{
     padding: 5vh;
     line-height: 2em;
     font-size: 3.5vw;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.282);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.736);
     font-family: var(--font1);
 }
 section.imagem{
     background-color: rgb(51, 46, 46);
    background-attachment: fixed;
-   box-shadow: 10px 0px 15px rgba(0, 0, 0, 0.792);
+   box-shadow: 10px 0px 15px #796666ca;
    color: white;
    background-size: cover;
   
@@ -56,6 +56,7 @@ section.imagem > p{
     display: inline-block;
     background-color: rgba(74, 72, 72, 0.395);
     padding: 5px;
+    color: white;
 }
 
 
